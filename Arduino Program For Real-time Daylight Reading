@@ -2,4 +2,7 @@ This is a program to utilize TSL2561, HC 05  Bluetooth Device and Arduino Uno to
 Note to remember: 
                   1- I tried, Arduino Leonardo, Arduino Mega and Arduino Mega R3, have issues with their firmware so far up to this day.
                   2- Design a shield for your Arduino, the Bluetooth seems to be very sensetive and spotty when there is a minor lose wire
-                  3- 
+Here is the program========
+===================================================================================================================================
+
+                
